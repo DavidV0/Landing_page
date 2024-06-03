@@ -1,0 +1,20 @@
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 100vw;
+    height: 10vh;
+    background-color: #440099;
+    gap: 12px;
+
+   > a{
+        color: white;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    >p{
+        margin: 0;
+    }
+}

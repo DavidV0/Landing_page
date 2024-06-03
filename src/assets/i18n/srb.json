@@ -1,0 +1,39 @@
+{
+    "navbar": {
+      "about": "O kompaniji",
+      "products": "Proizvodi",
+      "contact": "Kontakt",
+      "company": "Kompanija",
+      "language": "Jezik"
+    },
+    "about": {
+      "title": "O KOMPANIJI ZINZINO",
+      "content": "KOMPANIJA ZINZINO predstavlja buducnost covecanstva kada je u pitanju zdravlje.<br>Kompanija je registrovana 2005 god. u Svedskoj. Trenutno je na petom mestu po svom razvoju na rang listi u Svedskoj.<br>Kompanija je prisutna na berzi sto potvrdjuje kvalitet kompanije i transparentnost njenog rada.<br>Danas posluje u 110 zemalja sveta, pomaze deci nerazvijenih zemalja i daje svoj doprinos za bolji i srecniji svet…<br><br>Filozofija kompanije Zinzino<br>Priroda, nauka i pametne glave.<br>Cilj kompanije je da napravi stvarnu razliku. Zato sve sto radi zasniva na najprirodnijim izvorima, najrelevantnijim naucnim saznanjima , iskustvima lekara i vodecih zdravstvenih strucnjaka.<br>Strategiju dodataka ishrani zasnovanu na testovima kompanija Zinzino duguje pazljivo odabranoj grupi renomiranih profesionalaca koji su danas medju najsjanijim umovima u oblasti zdravlja."
+    },
+    "contact": {
+        "title": "Kontaktirajte nas",
+        "description": "Za sve dodatne informacije možete nas kontaktirati putem E-mail adrese",
+        "mail": "Mail"
+      },
+      "product": {
+        "balanceOil": {
+          "title": "BalanceOil +",
+          "description": "BITNE KARAKTERISTIKE O BALANCE ULJU<br>BalanceOil + je potpuno prirodni dodatak ishrani, bogat polifinolima, Omega-3 masnim kiselinama i vitaminom D3.<br>Doprinosi podešavanju i održavanju nivoa EPA + DHA i uravnotežava odnos Omege-6 i Omege-3 u Vašem organizmu, istovremeno štiti ćelije od oksidacije.<br>Sadrži premium mešavinu ulja dobijenih od sitnih riba uhvaćenih u divljini i maslinovog ulja ekstra devičanskog tipa, dobijenog od maslina ubranih pre sazrevanja.<br>Upravo ova kombinacija polifenola i visoka koncentracija EPA + DHA čini ovo ulje jedinstvenim na svetskom tržištu.<br><br>Kada imamo optimalan odnos Omege-6 i Omege-3 masnih kiselina:<br>- Smanjujemo tihe upale u telu<br>- Poboljšava se funkcija srca<br>- Poboljšava se funkcija mozga (sprečava se Demencija, Parkinsonova, Alchajmerova bolest)<br>- Napredak kod dece sa Autizmom<br>- Normalan razvoj mozga kod fetusa; ako je majka u deficitu, šta možemo očekivati kod novorođenčeta?<br>- Smanjuju se problemi sa kostima<br>- Utice na sterilitet<br>- Smanjuju se problemi sa menopauzom<br>- Rešavanje nekih problema sa kožom<br>- Poboljšava se imunitet<br>- Poboljšava se fluidnost ćelijske membrane (sposobnost ćelije da primi vitamine i izbaci toksine)<br>- Preporučuje se osobama sa autoimunim i malignim stanjima",
+          "orderButton": "Za narudžbine kliknite na link ispod za vašu zemlju",
+          "footer": "Za sve ostale zemlje pišite na E-mail"
+        },
+        "balanceTest": {
+          "title": "Balance Test",
+          "description": "BITNE KARAKTERISTIKE O BALANCE TEST-U<br>BalanceTest kompanije Zinzino je jednostavan kućni test za analizu masnih kiselina koje se nalaze u kapilarnoj krvi dobijenoj iz vrha prsta primenom tehnike analize sasušenog uzorka krvi (DBS).<br>DBS je naučno dokazano jednako precizan kao uzorak venske krvi kada je reč o analizi masnih kiselina. Potrebno je samo nekoliko kapi krvi iz vrha prsta na Whatman® filter papiru i postupak je završen za manje od jednog minuta.<br><br>Laboratorija VITAS AS u Norveškoj, anonimno će analizirati procenat sadržaja 11 masnih kiselina, koje zajedno čine približno 98% masnih kiselina u krvi, a vrednost odražava vašu ishranu u poslednjih 120 dana, što je životni vek krvnih ćelija. Rezultat se potom prikazuje, nakon otprilike 10-20 dana, na Internet stranici zinzinotest.com.",
+          "benefits": "KLJUČNI BENEFITI<br><ul><li>Jednostavan kućni test sa sasušenim uzorkom krvi, koji se lako koristi</li><li>Meri 11 masnih kiselina u vašoj krvi</li><li>Pruža podatke o vašem Omega-6 : Omega-3 balansu</li></ul>",
+          "additionalInfo": "Ovaj test je prvi korak na Vašem putu ka boljem zdravlju; sa dve kapi krvi dobijamo uvid u naše zdravstveno stanje.<br><br>Test pokazuje:<br>- Broj tihih upala u našem organizmu<br>- Stanje naših ćelija<br>- Naš imunitet<br>- Stanje naših kostiju<br>- Mentalnu snagu<br>- Funkciju našeg srca<br><br>Zinzino je do danas najveća svetska kompanija na osnovu testa baziranih dodataka ishrani.<br><br>Ono što svi želimo je da se osećamo dobro, budemo vitalni i zdravi....",
+          "orderButton": "Za narudžbine kliknite na link ispod za vašu zemlju",
+          "footer": "Za sve ostale zemlje pišite na E-mail"
+        }
+      },
+      "footer": {
+        "privacyPolicy": "Izjava o privatnosti",
+        "copyright": "&copy; 2024 David Velickovic"
+      }
+  }
+  

@@ -1,0 +1,29 @@
+<nav>
+  <div class="logo">
+    <a routerLink="/"></a>
+  </div>
+  <div class="nav-links">
+    <a routerLink="/" fragment="about-section">{{ 'navbar.about' | translate }}</a>
+    <a routerLink="/" fragment="product-section">{{ 'navbar.products' | translate }}</a>
+    <a routerLink="/" fragment="contact-section">{{ 'navbar.contact' | translate }}</a>
+    <div class="language" id="len" (click)="translating()">
+      {{ language }}
+    </div>
+  </div>
+  <div class="hamburger-menu">
+    <input type="checkbox" id="menu-toggle">
+    <label for="menu-toggle" class="menu-icon">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+    <div class="menu-dropdown">
+      <a routerLink="/" fragment="about-section" (click)="closeMenu()">{{ 'navbar.about' | translate }}</a>
+      <a routerLink="/" fragment="product-section" (click)="closeMenu()">{{ 'navbar.products' | translate }}</a>
+      <a routerLink="/" fragment="contact-section" (click)="closeMenu()">{{ 'navbar.contact' | translate }}</a>
+      <div class="language" id="len" (click)="translating()">
+        {{ language }}
+      </div>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,38 @@
+{
+  "navbar": {
+    "about": "Über",
+    "products": "Produkte",
+    "contact": "Kontakt",
+    "company": "Unternehmen",
+    "language": "Sprache"
+  },
+  "about": {
+    "title": "ÜBER ZINZINO ",
+    "content": "ZINZINO stellt die Zukunft der Menschheit in Bezug auf Gesundheit dar.<br>Das Unternehmen wurde 2005 in Schweden registriert. Derzeit ist es auf Platz fünf in seiner Entwicklung in Schweden.<br>Das Unternehmen ist an der Börse notiert, was die Qualität des Unternehmens und die Transparenz seiner Arbeit bestätigt.<br>Heute ist es in 110 Ländern weltweit tätig, hilft Kindern in unterentwickelten Ländern und trägt zu einer besseren und glücklicheren Welt bei…<br><br>Die Philosophie von Zinzino<br>Natur, Wissenschaft und kluge Köpfe.<br>Das Ziel des Unternehmens ist es, einen echten Unterschied zu machen. Daher basiert alles, was es tut, auf den natürlichsten Quellen, dem relevantesten wissenschaftlichen Wissen, den Erfahrungen von Ärzten und führenden Gesundheitsexperten.<br>Die auf Tests basierende Nahrungsergänzungsstrategie verdankt Zinzino einer sorgfältig ausgewählten Gruppe renommierter Fachleute, die heute zu den klügsten Köpfen im Gesundheitsbereich zählen."
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "description": "Für weitere Informationen können Sie uns über die E-Mail-Adresse kontaktieren",
+    "mail": "Mail"
+  },
+  "product": {
+    "balanceOil": {
+      "title": "BalanceOil +",
+      "description": "WICHTIGE EIGENSCHAFTEN DES BALANCE OILS<br>BalanceOil + ist ein völlig natürliches Nahrungsergänzungsmittel, reich an Polyphenolen, Omega-3-Fettsäuren und Vitamin D3.<br>Es hilft, die EPA + DHA-Werte zu regulieren und das Omega-6- und Omega-3-Verhältnis in Ihrem Körper auszugleichen, während gleichzeitig die Zellen vor Oxidation geschützt werden.<br>Es enthält eine Premium-Mischung aus Ölen, die aus kleinen wild gefangenen Fischen und extra nativem Olivenöl gewonnen werden, das aus früh geernteten Oliven gewonnen wird.<br>Diese Kombination aus Polyphenolen und hoher Konzentration an EPA + DHA macht dieses Öl einzigartig auf dem Weltmarkt.<br><br>Wenn wir ein optimales Verhältnis von Omega-6- und Omega-3-Fettsäuren haben:<br>- Wir reduzieren stille Entzündungen im Körper<br>- Verbessert die Herzfunktion<br>- Verbessert die Gehirnfunktion (verhindert Demenz, Parkinson, Alzheimer)<br>- Fortschritte bei Kindern mit Autismus<br>- Normale Gehirnentwicklung bei Föten; wenn die Mutter einen Mangel hat, was können wir beim Neugeborenen erwarten?<br>- Reduziert Knochenprobleme<br>- Beeinflusst die Fruchtbarkeit<br>- Reduziert Menopause-Probleme<br>- Löst einige Hautprobleme<br>- Verbessert die Immunität<br>- Verbessert die Zellmembranfluidität (Fähigkeit der Zelle, Vitamine aufzunehmen und Toxine auszuscheiden)<br>- Empfohlen für Menschen mit Autoimmun- und malignen Erkrankungen",
+      "orderButton": "Für Bestellungen klicken Sie auf den unten stehenden Link für Ihr Land",
+      "footer": "Für alle anderen Länder schreiben Sie an die E-Mail"
+    },
+    "balanceTest": {
+      "title": "Balance Test",
+      "description": "WICHTIGE EIGENSCHAFTEN DES BALANCE TESTS<br>Der Zinzino BalanceTest ist ein einfacher Heimtest zur Analyse von Fettsäuren, die in Kapillarblut aus einer Fingerkuppe mit der Technik der trockenen Blutfleckenanalyse (DBS) gewonnen werden.<br>DBS ist wissenschaftlich nachgewiesen genauso genau wie eine venöse Blutprobe bei der Fettsäureanalyse. Nur wenige Tropfen Blut aus der Fingerkuppe auf Whatman®-Filterpapier sind erforderlich, und der Prozess ist in weniger als einer Minute abgeschlossen.<br><br>Das VITAS AS-Labor in Norwegen wird anonym den prozentualen Gehalt von 11 Fettsäuren analysieren, die zusammen etwa 98% der Fettsäuren im Blut ausmachen, und der Wert spiegelt Ihre Ernährung der letzten 120 Tage wider, was die Lebensdauer der Blutzellen ist. Das Ergebnis wird dann nach etwa 10-20 Tagen auf der Website zinzinotest.com angezeigt.",
+      "benefits": "WICHTIGE VORTEILE<br><ul><li>Einfacher Heimtest mit getrocknetem Blutsample, einfach zu verwenden</li><li>Misst 11 Fettsäuren in Ihrem Blut</li><li>Bietet Daten zu Ihrem Omega-6: Omega-3-Verhältnis</li></ul>",
+      "additionalInfo": "Dieser Test ist der erste Schritt auf Ihrem Weg zu besserer Gesundheit; mit zwei Tropfen Blut gewinnen wir Einblick in unseren Gesundheitszustand.<br><br>Der Test zeigt:<br>- Die Anzahl stiller Entzündungen in unserem Körper<br>- Den Zustand unserer Zellen<br>- Unsere Immunität<br>- Den Zustand unserer Knochen<br>- Mentale Stärke<br>- Die Funktion unseres Herzens<br><br>Zinzino ist heute das weltweit größte Unternehmen auf der Grundlage von Test-basierten Nahrungsergänzungsmitteln.<br><br>Was wir alle wollen, ist, uns gut zu fühlen, vital und gesund zu sein....",
+      "orderButton": "Für Bestellungen klicken Sie auf den unten stehenden Link für Ihr Land",
+      "footer": "Für alle anderen Länder schreiben Sie an die E-Mail"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "copyright": "&copy; 2024 David Velickovic"
+  }
+}

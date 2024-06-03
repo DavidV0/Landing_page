@@ -1,0 +1,39 @@
+{
+  "navbar": {
+    "about": "About",
+    "products": "Products",
+    "contact": "Contact",
+    "company": "Company",
+    "language": "Language"
+  },
+  "about": {
+    "title": "ABOUT ZINZINO",
+    "content": "ZINZINO  represents the future of humanity when it comes to health.<br>The company was registered in 2005 in Sweden. It is currently ranked fifth in its development in Sweden.<br>The company is listed on the stock exchange, which confirms the quality of the company and the transparency of its work.<br>Today, it operates in 110 countries worldwide, helping children in underdeveloped countries and contributing to a better and happier world…<br><br>The philosophy of Zinzino<br>Nature, science, and smart minds.<br>The company's goal is to make a real difference. Therefore, everything it does is based on the most natural sources, the most relevant scientific knowledge, the experiences of doctors, and leading health experts.<br>The nutrition supplement strategy based on tests, Zinzino owes to a carefully selected group of renowned professionals who are today among the brightest minds in the field of health."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "For any additional information, you can contact us via email address",
+    "mail": "Mail"
+  },
+
+  "product": {
+    "balanceOil": {
+      "title": "BalanceOil +",
+      "description": "KEY FEATURES OF BALANCE OIL<br>BalanceOil + is a completely natural dietary supplement rich in polyphenols, Omega-3 fatty acids, and vitamin D3.<br>It helps to adjust and maintain the levels of EPA + DHA and balances the Omega-6 and Omega-3 ratios in your body while simultaneously protecting cells from oxidation.<br>It contains a premium blend of oils derived from small wild-caught fish and extra virgin olive oil obtained from early harvested olives.<br>This combination of polyphenols and high concentration of EPA + DHA makes this oil unique in the world market.<br><br>When we have an optimal ratio of Omega-6 and Omega-3 fatty acids:<br>- We reduce silent inflammation in the body<br>- Improves heart function<br>- Improves brain function (prevents Dementia, Parkinson's, Alzheimer's)<br>- Progress in children with Autism<br>- Normal brain development in fetuses; if the mother is deficient, what can we expect in the newborn?<br>- Reduces bone problems<br>- Affects fertility<br>- Reduces menopause problems<br>- Solves some skin problems<br>- Improves immunity<br>- Improves cell membrane fluidity (cell's ability to absorb vitamins and expel toxins)<br>- Recommended for people with autoimmune and malignant conditions",
+      "orderButton": "For orders, click the link below for your country",
+      "footer": "For all other countries, write to the email"
+    },
+    "balanceTest": {
+      "title": "Balance Test",
+      "description": "KEY FEATURES OF BALANCE TEST<br>The Zinzino BalanceTest is a simple home test for analyzing fatty acids found in capillary blood obtained from a fingertip using the dried blood spot (DBS) technique.<br>DBS is scientifically proven to be as accurate as a venous blood sample for fatty acid analysis. Only a few drops of blood from the fingertip on a Whatman® filter paper are required, and the process is completed in less than a minute.<br><br>The VITAS AS laboratory in Norway will anonymously analyze the percentage content of 11 fatty acids, which together make up approximately 98% of the fatty acids in the blood, and the value reflects your diet over the last 120 days, which is the lifespan of blood cells. The result is then displayed after approximately 10-20 days on the zinzinotest.com website.",
+      "benefits": "KEY BENEFITS<br><ul><li>Simple home test with dried blood sample, easy to use</li><li>Measures 11 fatty acids in your blood</li><li>Provides data on your Omega-6: Omega-3 balance</li></ul>",
+      "additionalInfo": "This test is the first step on your journey to better health; with two drops of blood, we gain insight into our health status.<br><br>The test shows:<br>- The number of silent inflammations in our body<br>- The condition of our cells<br>- Our immunity<br>- The state of our bones<br>- Mental strength<br>- The function of our heart<br><br>Zinzino is today the world's largest company based on test-based dietary supplements.<br><br>What we all want is to feel good, be vital, and healthy....",
+      "orderButton": "For orders, click the link below for your country",
+      "footer": "For all other countries, write to the email"
+    }
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "copyright": "&copy; 2024 David Velickovic"
+  }
+}

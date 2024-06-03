@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+.home{
+  scroll-behavior: smooth;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100vw;
+    
+
+}
+
+:host {
+    display: block;
+    margin-top: 100px; /* Höhe der Navbar */
+  }
+
+  #img{
+    width: 1000px;
+    height: 1000px;
+  }
