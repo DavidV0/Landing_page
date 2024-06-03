@@ -4,14 +4,62 @@ body {
     line-height: 1.6;
     padding: 0 1em;
     height: fit-content;
-}
-h1, h2, h3 {
+  }
+  
+  h1, h2, h3 {
     color: #333;
-}
-p {
+  }
+  
+  p {
     margin: 1em 0;
-}
-ul {
+  }
+  
+  ul {
     margin: 1em 0;
     padding-left: 1.5em;
-}
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  
+    h1, h2, h3 {
+      font-size: 1.2em;
+    }
+  
+    p, ul {
+      font-size: 0.9em;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .container {
+      padding: 5px;
+    }
+  
+    h1 {
+      font-size: 1.5em;
+    }
+  
+    h2 {
+      font-size: 1.2em;
+    }
+  
+    h3, h4 {
+      font-size: 1em;
+    }
+  
+    p, ul {
+      font-size: 0.8em;
+    }
+  }
+  

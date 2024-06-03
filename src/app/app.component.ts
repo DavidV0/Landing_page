@@ -29,10 +29,10 @@ export class AppComponent {
     });
 
     translate.addLangs(['en', 'de', 'srb']);
-    const defaultLang = 'srb';
+    const defaultLang = 'de';
     translate.setDefaultLang(defaultLang);
     const browserLang = translate.getBrowserLang();
-    const langToUse = browserLang && ['en', 'de', 'srb'].includes(browserLang) ? browserLang : defaultLang;
+    const langToUse = browserLang && translate.getLangs().includes(browserLang) ? browserLang : defaultLang;
     translate.use(langToUse);
   }
 

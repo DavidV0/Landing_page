@@ -12,7 +12,7 @@ import { CommonModule } from '@angular/common';
   styleUrls: ['./navbar.component.scss']
 })
 export class NavbarComponent {
-  @Input() language = 'SRB';
+  @Input() language = 'DE';
 
   constructor(
     private router: Router,
