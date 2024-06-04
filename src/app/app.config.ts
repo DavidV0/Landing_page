@@ -13,7 +13,6 @@ export function HttpLoaderFactory(http: HttpClient) {
 
 export const appConfig: ApplicationConfig = {
   providers: [
-    provideZoneChangeDetection({ eventCoalescing: true }),
     provideRouter(routes),
     provideClientHydration(),
     provideAnimationsAsync(),
@@ -24,7 +23,7 @@ export const appConfig: ApplicationConfig = {
           useFactory: HttpLoaderFactory,
           deps: [HttpClient]
         },
-        defaultLanguage: 'de'
+        defaultLanguage: 'srb'
       })
     ),
     provideHttpClient(),
